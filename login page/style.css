@@ -1,0 +1,62 @@
+html{
+    width: 1920px;
+    height: 1428px;
+    background-color: #21c18b;
+}
+h1{
+    font-family: NotoSansKR;
+    font-size: 85.3px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: 4.3px;
+    text-align: center;
+    color: #ffffff;
+
+}
+.left{
+    width: 958px;
+    height: 1428px;
+}
+.left_h2{
+    font-family: NotoSansKR;
+    font-size: 50px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.btn_login{
+    width: 456px;
+    height: 77px;
+    border-radius: 38.5px;
+    border: 0;
+    background-color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #21c18b;
+}
+.btn_newid{
+    width: 456px;
+    height: 77px;
+    border-radius: 38.5px;
+    background-color: #21c18b;
+    border: solid 2px #21c18b;
+    border-color: #96f8d7;
+    font-family: NotoSansKR;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #FFFFFF;
+}
